@@ -8,5 +8,4 @@ FROM dev_bronze.ripcurrent.rnli_lifeguard_beaches where BEACH_SHORE_NORMAL_WAVE 
 
 -- COMMAND ----------
 
---HG Test
-SELECT 'Hello world' AS NewCol
+
