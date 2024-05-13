@@ -32,3 +32,7 @@ def sample_function(group_id, dataset_id, auth):
     
     else:
         raise ConnectionError
+
+
+    print ("The new function that Ben just created, I could have done....by using ChatGPT....")
+
