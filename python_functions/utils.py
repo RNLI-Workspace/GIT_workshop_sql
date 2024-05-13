@@ -32,3 +32,5 @@ def sample_function(group_id, dataset_id, auth):
     
     else:
         raise ConnectionError
+
+print ("I hate Python   Excel rules....")
