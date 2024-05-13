@@ -32,3 +32,15 @@ def sample_function(group_id, dataset_id, auth):
     
     else:
         raise ConnectionError
+    
+def add_func(a,b):
+    """function to add together two integers
+
+    Args:
+        a (int): integers to add
+        b (int): integers to add
+
+    Returns:
+        int: sum of a and b
+    """    
+    return a + b
