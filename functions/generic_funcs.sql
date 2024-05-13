@@ -1,1 +1,0 @@
-select * from dev_bronze.ripcurrent.rnli_lifeguard_beaches
